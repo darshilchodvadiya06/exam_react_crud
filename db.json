@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "firstName": "Darshil",
+      "lastName": "Chodvadiya",
+      "age": "12",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
